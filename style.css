@@ -1,0 +1,10 @@
+table, caption, th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+.pics img{
+    padding: 5px;
+    border-radius: 100px;
+}
